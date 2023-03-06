@@ -16,8 +16,13 @@ If none of the above resonates with you, do not hesitate to send us an email at 
 
 The second question that may come to your mind is, "I have an idea of I want to contribute. How can I start?" 
 
-I have an idea for this project
-To start, we invite you to check the [issues](https://github.com/hmapedro/repository-template-rust/issues/). 
+### I have an idea for this project
+New ideas should be registered via a Feature Request (FR) in the [Issues](https://github.com/hmapedro/repository-template-rust/issues/) section of this project. Before creating a new FR, please ensure a similar FR doesn't exist already. If it exists already, don't hesitate to add further comments. 
+
+
+If the FR doesn't exist already, please add a New Issue <img width="105" alt="Screenshot 2023-03-06 at 10 23 15" src="https://user-images.githubusercontent.com/78369129/223083433-ce8bd118-4a25-47cf-b3fc-009dd4a2e258.png"> of type Feature Request 
+
+Please check  to check if thereN
 [issues2](../../issues/)
 
 
