@@ -5,7 +5,7 @@
 Please include a summary of the changes proposed by this Pull Request (PR). Please also include relevant motivation and context. List any dependencies that are required for this change.
 
 
-## Issues affected
+## Related Issues
 
 Please indicate the issues affected by this PR using the correct [sintax]([https://link-url-here.org](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)) and the correct keywords
 
