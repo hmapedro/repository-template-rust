@@ -1,4 +1,4 @@
-name: Feature Request
+name: Feature request
 description: Submit new feature request 
 title: "[FEAT]: "
 labels: ["feature"]
@@ -8,7 +8,7 @@ body:
   - type: textarea
     id: fr-context
     attributes:
-      label: Feature Request context & motivation
+      label: Feature request context & motivation
       description: Describe the context and motivation for the creation of this feature request
       placeholder: A clear and concise description of the context and motivations for the creation this Feature Request. 
     validations:
@@ -32,14 +32,14 @@ body:
   - type: textarea
     id: fr-additionalinfo
     attributes:
-      label: Additional Information
+      label: Additional information
       description: Provide additional information you considered relevant for this Feature Request
     validations:
       required: false
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
+      label: Code of conduct
       description: By submitting this Feature Request, you agree to follow our [Code of Conduct](https://example.com)
       options:
         - label: I agree to follow this project's Code of Conduct
