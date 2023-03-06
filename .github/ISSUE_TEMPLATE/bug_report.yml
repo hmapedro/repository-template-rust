@@ -3,7 +3,6 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
-  - hmapedro
 body:
   - type: textarea
     id: bug-description
