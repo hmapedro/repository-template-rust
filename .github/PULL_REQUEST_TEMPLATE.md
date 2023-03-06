@@ -7,7 +7,7 @@ Please include a summary of the changes proposed by this pull request (PR). Plea
 
 ## Related issues
 
-Please indicate the issues affected by this PR using the correct Github [syntax]([https://link-url-here.org](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)) and the correct keywords
+Please indicate the issues affected by this PR using the correct Github [syntax](https://link-url-here.org](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) and the correct keywords
 
 Ex:  
 fix #1  
