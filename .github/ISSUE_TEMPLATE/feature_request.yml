@@ -10,7 +10,7 @@ body:
     attributes:
       label: Feature request context & motivation
       description: Describe the context and motivation for the creation of this feature request
-      placeholder: A clear and concise description of the context and motivations for the creation this Feature Request. 
+      placeholder: A clear and concise description of the context and motivations for the creation this Feature request. 
     validations:
       required: true
   - type: textarea
