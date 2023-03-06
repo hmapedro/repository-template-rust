@@ -9,7 +9,7 @@ Please include a summary of the changes proposed by this Pull Request (PR). Plea
 
 Please indicate the issues affected by this PR using the correct [sintax]([https://link-url-here.org](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)) and the correct keywords
 
-Ex:
+Ex:  
 fix #1  
 closes #3
 
