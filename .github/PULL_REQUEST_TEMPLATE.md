@@ -2,18 +2,17 @@
 
 ## Description
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Please include a summary of the changes proposed by this Pull Request (PR). Please also include relevant motivation and context. List any dependencies that are required for this change.
 
 Fixes # (issue)
 
-## Type of change
+## Issues affected
 
-Please delete options that are not relevant.
+Please indicate the issues affected by this PR using the correct [sintax]([https://link-url-here.org](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)) and the correct keywords
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+Ex:
+fix #1
+closes #3
 
 ## How Has This Been Tested?
 
