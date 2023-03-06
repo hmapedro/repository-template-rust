@@ -17,7 +17,8 @@ If none of the above resonates with you, do not hesitate to send us an email at 
 The second question that may come to your mind is, "I have an idea of I want to contribute. How can I start?" 
 
 I have an idea for this project
-To start, we invite you to check the [issues](https://github.com/hmapedro/repository-template-rust/sheetsee.js/issues/)
+To start, we invite you to check the [issues](https://github.com/hmapedro/repository-template-rust/issues/). 
+[issues2](./issues/)
 
 
 The next concrete step is to take the plunge by picking one the outstanding tasks on the project's management board. For doing so, please bump to the [Getting started](./CONTRIBUTOR_BIBLE.md) paragraph of our `Contributor's Bible`.
