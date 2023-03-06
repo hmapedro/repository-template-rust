@@ -2,10 +2,10 @@
 
 ## Description
 
-Please include a summary of the changes proposed by this Pull Request (PR). Please also include relevant motivation and context. List any dependencies that are required for this change.
+Please include a summary of the changes proposed by this pull request (PR). Please also include relevant motivation and context. List any dependencies that are required for this change.
 
 
-## Related Issues
+## Related issues
 
 Please indicate the issues affected by this PR using the correct [sintax]([https://link-url-here.org](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)) and the correct keywords
 
@@ -13,14 +13,14 @@ Ex:
 fix #1  
 closes #3
 
-## How Has This Been Tested?
+## How has this been tested?
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
 - [ ] Test A
 - [ ] Test B
 
-**Test Configuration**:
+**Test configuration**:
 * Firmware version:
 * Hardware:
 * Toolchain:
