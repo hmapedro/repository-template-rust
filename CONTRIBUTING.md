@@ -30,11 +30,11 @@ In case you want to contribute with your coding skills, please take a look at ou
 
 This diagram describe the generic workflow for developers that would like to contribute to this project. We would like to state that we use a [Trunk Based Development](https://trunkbaseddevelopment.com/), where developers collaborate on code in a single branch (in our case, master).
 
-All coding initiatives should be preceded by an issue (either a bug report or a feature request).  
-The Sofair core team can assign an issue to any contributor or a contributor can assign it to himself.  
-In order to start coding, the contributor needs to clone or fork the main branch, creating his local copy of the project main branch.  
-The contributor works on this local copy, making the necessary code changes. Please make sure to follow the [Sofair coding guidelines](www.google.com)
-After making the necessary code changes, the contributor should create a Pull Request(PR) of his local branch and the main branch of the upstream repository (SofairOfficial/project).  
+* All coding initiatives should be preceded by an issue (either a bug report or a feature request).
+* The Sofair core team can assign an issue to any contributor or a contributor can assign it to himself.
+* In order to start coding, the contributor needs to clone or fork the main branch, creating his local copy of the project main branch.
+* The contributor works on this local copy, making the necessary code changes. Please make sure to follow the [Sofair coding guidelines](https://www.google.com).
+* After making the necessary code changes, the contributor should create a Pull Request(PR) of his local branch and the main branch of the upstream repository (SofairOfficial/project). Please provide the necessary information in the PR form.
+* The code review process will be executed and if everything is ok, the PR will be approved by the core team, and your code is integrated in the main branch. If the code review process finds anything that needs to be reviewed in your PR, we will inform you and you can proceed with those changes on your local branch, repeting the process described previously to submit a new revisiong.  
 
 
-the contributor works on this local copy, making the necessary code changes.  
