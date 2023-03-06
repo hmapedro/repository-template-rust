@@ -1,4 +1,4 @@
-# Pull Request Template
+# Pull request template
 
 ## Description
 
