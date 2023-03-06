@@ -16,7 +16,7 @@ body:
   - type: textarea
     id: fr-description
     attributes:
-      label: Feature Resquest description
+      label: Feature resquest description
       description: Describe in detail your Feature Request
       placeholder: A clear and concise description of the Feature Request.
     validations:
@@ -24,7 +24,7 @@ body:
   - type: textarea
     id: fr-alternatives
     attributes:
-      label: Feature Request Alternatives
+      label: Feature request alternatives
       description: Describe the alternatives you considered
       placeholder: A clear and concise description of any alternative solutions or features you've considered.
     validations:
