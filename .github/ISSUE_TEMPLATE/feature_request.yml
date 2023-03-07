@@ -36,11 +36,3 @@ body:
       description: Provide additional information you considered relevant for this Feature Request
     validations:
       required: false
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of conduct
-      description: By submitting this Feature Request, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
