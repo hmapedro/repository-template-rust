@@ -2,8 +2,6 @@ name: Feature request
 description: Submit new feature request 
 title: "[FEAT]: "
 labels: ["feature"]
-assignees:
-  - hmapedro
 body:
   - type: textarea
     id: fr-context
