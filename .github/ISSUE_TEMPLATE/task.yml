@@ -8,29 +8,33 @@ body:
     attributes:
       label: Aim
       description: Describe the aim and motivation for the creation of this task
-      placeholder: A clear and concise description of the context and motivations for the creation this task. 
     validations:
       required: true
   - type: textarea
     id: task-assumption
     attributes:
       label: Assumptions
-      description: Provice a list of assumptions that must be considered for this task
-      placeholder: A list of assumptions  - ...
+      description: Provide a list of assumptions that must be considered for this task.
     validations:
       required: true
   - type: textarea
-    id: fr-alternatives
+    id: task-acceptancecriteria
     attributes:
-      label: Feature request alternatives
-      description: Describe the alternatives you considered
-      placeholder: A clear and concise description of any alternative solutions or features you've considered.
+      label: Acceptance criteria
+      description: Describe a list of acceptance criteria for this task
     validations:
-      required: false
+      required: true
   - type: textarea
-    id: fr-additionalinfo
+    id: task-risks
     attributes:
-      label: Additional information
-      description: Provide additional information you considered relevant for this Feature Request
+      label: Risks
+      description: Provive a list of risks that should be considered for this task.
     validations:
-      required: false
+      required: true
+  - type: textarea
+    id: task-references
+    attributes:
+      label: References
+      description: Provide a list of references that should be used to assure the correct execution of this task.
+    validations:
+      required: false      
