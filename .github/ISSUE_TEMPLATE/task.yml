@@ -1,0 +1,36 @@
+name: Task
+description: Submit new Task
+title: "[TASK]: "
+labels: ["task"]
+body:
+  - type: textarea
+    id: task-aim
+    attributes:
+      label: Aim
+      description: Describe the aim and motivation for the creation of this task
+      placeholder: A clear and concise description of the context and motivations for the creation this task. 
+    validations:
+      required: true
+  - type: textarea
+    id: task-assumption
+    attributes:
+      label: Assumptions
+      description: Provice a list of assumptions that must be considered for this task
+      placeholder: A list of assumptions  - ...
+    validations:
+      required: true
+  - type: textarea
+    id: fr-alternatives
+    attributes:
+      label: Feature request alternatives
+      description: Describe the alternatives you considered
+      placeholder: A clear and concise description of any alternative solutions or features you've considered.
+    validations:
+      required: false
+  - type: textarea
+    id: fr-additionalinfo
+    attributes:
+      label: Additional information
+      description: Provide additional information you considered relevant for this Feature Request
+    validations:
+      required: false
