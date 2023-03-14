@@ -17,7 +17,7 @@ jobs:
         steps:
           - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
           - name: Checkout
-            uses: actions/checkout@v2
+            uses: actions/checkout@v3
             with:
                 fetch-depth: 0
                 persist-credentials: false
@@ -47,3 +47,8 @@ jobs:
             env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                 CARGO_REGISTRY_TOKEN: ${{ secrets.SEMREL_CRATES_IO }}
+
+          - name: Display the new semantic release version
+            if: steps.semantic.outputs.new_release_published == 'true'
+            run: |
+              echo ${{ stpes.semantic.outputs.new_release_version }}
