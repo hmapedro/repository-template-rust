@@ -51,4 +51,4 @@ jobs:
           - name: Display the new semantic release version
             if: steps.semantic.outputs.new_release_published == 'true'
             run: |
-              echo ${{ stpes.semantic.outputs.new_release_version }}
+              echo ${{ steps.semantic.outputs.new_release_version }}
